@@ -1,0 +1,133 @@
+{
+    "nome": "Academia Gym fit",
+    
+    "cadastro": [
+        {
+            "nome": "João da Silva",
+            "dataNascimento": "1990-05-15",
+            "sexo": "Masculino",
+            "email": "joao.silva@example.com",
+            "telefone": "(11) 98765-4321"
+        }
+    ],
+    "alunos": [
+        {
+            "nome": "Thais",
+            "idade": 20,
+            "email": "thais@gmail.com",
+            "treinos": [
+                {
+                    "nome": "Treino 1",
+                    "descricao": "Treino de peito",
+                    "exercicios": [
+                        {
+                            "nome": "Flexão de braço",
+                            "descricao": "Exercício para peito",
+                            "imagem": null
+                        },
+                        {
+                            "nome": "Supino reto com barra",
+                            "descricao": "Exercício para peito",
+                            "imagem": null
+                        },
+                        {
+                            "nome": "Crossover com polia alta",
+                            "descricao": "Exercício para peito",
+                            "imagem": null
+                        },
+                        {
+                            "nome": "crucifixo reto",
+                            "descricao": "Exercício para peito",
+                            "imagem": null
+                        }
+                    ]
+                },
+                {
+                    "nome": "Treino 2",
+                    "descricao": "Treino de perna",
+                    "exercicios": [
+                        {
+                            "nome": "Levantamento Terra",
+                            "descricao": "Exercício para pernas",
+                            "imagem": null
+                        },
+                        {
+                            "nome": "Leg press 45°",
+                            "descricao": "Exercício para pernas",
+                            "imagem": null
+                        },
+                        {
+                            "nome": "Agachamento",
+                            "descricao": "Exercício para pernas",
+                            "imagem": null
+                        },
+                        {
+                            "nome": "Hack machine",
+                            "descricao": "Exercício para pernas",
+                            "imagem": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Caio",
+            "idade": 20,
+            "email": "caio@gmail.com",
+            "treinos": [
+                {
+                    "nome": "Treino 1",
+                    "descricao": "Treino de costas",
+                    "exercicios": [
+                        {
+                            "nome": "Barra fixa",
+                            "descricao": "Exercício para peito",
+                            "imagem": null
+                        },
+                        {
+                            "nome": "Puxada frontal",
+                            "descricao": "Exercício para peito",
+                            "imagem": null
+                        },
+                        {
+                            "nome": "Pulley articulado",
+                            "descricao": "Exercício para peito",
+                            "imagem": null
+                        },
+                        {
+                            "nome": "Remada curvada",
+                            "descricao": "Exercício para peito",
+                            "imagem": null
+                        }
+                    ]
+                },
+                {
+                    "nome": "Treino 2",
+                    "descricao": "Treino de ombros",
+                    "exercicios": [
+                        {
+                            "nome": "Desenvolvimento de ombros com halteres",
+                            "descricao": "Exercício para pernas",
+                            "imagem": null
+                        },
+                        {
+                            "nome": "Desenvolvimento Arnold para ombros",
+                            "descricao": "Exercício para pernas",
+                            "imagem": null
+                        },
+                        {
+                            "nome": "Elevação lateral de ombros com halteres",
+                            "descricao": "Exercício para pernas",
+                            "imagem": null
+                        },
+                        {
+                            "nome": "Remada alta em pé com halteres",
+                            "descricao": "Exercício para pernas",
+                            "imagem": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
